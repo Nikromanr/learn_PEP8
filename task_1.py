@@ -1,4 +1,4 @@
-import sys, os, math
+import math
 
 
 def calculate(x, y):
